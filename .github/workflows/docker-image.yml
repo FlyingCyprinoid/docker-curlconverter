@@ -8,7 +8,7 @@ on:
 env:
   PLATFORMS: linux/amd64
   SOURCE_REPOSITORY: curlconverter/curlconverter
-  DOCKERHUB_REPOSITORY: helllord/curlconverter
+  DOCKERHUB_REPOSITORY: skyrootsnout/curlconverter
   DOCKERFILE_REPOSITORY: curlconverter/curlconverter.github.io
 
 jobs:
